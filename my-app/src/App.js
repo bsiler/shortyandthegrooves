@@ -1,12 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
+import NavigationHeader from "./NavigationHeader";
+import { Navbar } from "reactstrap";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>SHORTY AND THE GROOVES</p>
-      </header>
+      <NavigationHeader></NavigationHeader>
     </div>
   );
 }
