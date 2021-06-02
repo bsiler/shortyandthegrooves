@@ -1,2 +1,0 @@
-# shortyandthegrooves
-shortyandthegrooves.com
